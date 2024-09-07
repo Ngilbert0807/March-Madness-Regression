@@ -1,4 +1,4 @@
-# Linear Regression
+# March-Madness-Regression
 
 This is my repository for my march madness regression project.
 The main file has all the code needed to run to view the process and results of this project
